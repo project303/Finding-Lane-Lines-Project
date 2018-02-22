@@ -5,6 +5,7 @@ Prerequisites :
 - use environment carnd-term1
 
 Small Code Changes :
-– thickness default value in draw_lines function set to 10
+- thickness default value in draw_lines function set to 10
+
 
 Run P1-Result.ipny
